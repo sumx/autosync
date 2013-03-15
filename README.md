@@ -6,6 +6,6 @@ autosync
 ### 使用方法
 
 - 修改配置文件
-1. 通过配置config.xml中的文件来配置服务器地址以及密码，本地的目录以及服务器上的目录
+  1. 通过配置config.xml中的文件来配置服务器地址以及密码，本地的目录以及服务器上的目录
 - 启动命令
-2. 定位到sync.jar所在的目录执行java -jar sync.jar
+  2. 定位到sync.jar所在的目录执行java -jar sync.jar
