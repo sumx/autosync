@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Config>
+    <!--mathine name bossimg.alipay.net-->
+    <item name="HostName"><![CDATA[xxx.inc.xxx.net]]></item>
+    <!--user name forexample admin-->
+    <item name="UserName"><![CDATA[admin]]></item>
+    <!--remote passWord-->
+    <item name="PassWord"><![CDATA[xxx]]></item>
+    <!--remote fileFold-->
+    <item name="RemoteFold"><![CDATA[/home/admin/static/]]></item>
+    <!--remote fileFold-->
+    <item name="FileRoot"><![CDATA[~/Desktop/fc]]></item>
+    <!--task Interval-->
+    <item name="FileUpdateInterval"><![CDATA[10000]]></item>
+	<!--is save local file-->
+	<item name="IsSaveLocalFile"><![CDATA[false]]></item>
+	<!--is get remote file-->
+	<item name="IsGetFile"><![CDATA[false]]></item>
+</Config>
+
